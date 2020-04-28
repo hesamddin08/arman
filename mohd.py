@@ -48,13 +48,21 @@ def jalan(z):
 
 ##### LOGO #####
 logo = """
-\033[1;91m▀█ █▀█ █▀█ █▄░█
-\033[1;96m█▄ █▄█ █▄█ █░▀█
+\033[1;91m   
+
+
+░█████╗░██╗░░██╗███╗░░░███╗
+██╔══██╗██║░██╔╝████╗░████║
+███████║█████═╝░██╔████╔██║
+██╔══██║██╔═██╗░██║╚██╔╝██║
+██║░░██║██║░╚██╗██║░╚═╝░██║
+╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝
+\033[1;96m               
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mMohammad sultani
-\033[1;96mTelegram \033[1;93m: \033[1;92mt.me/sultani1122
-\033[1;96mFacebook  \033[1;93m: \033[1;92mt.me/mohammad_hacker_1122
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/mohammadjan1122/mohd
+\033[1;96mAuthor  \033[1;93m: \033[1;92mARMAN Amp4rator
+\033[1;96mTelegram \033[1;93m: \033[1;92mt.me/ARMAN_HACKER420
+\033[1;96mFacebook  \033[1;93m: \033[1;92mt.me/ARMAM HACKER
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Armanamp4rator/arman
 \033[1;91m======================================="""
 
 def tik():
@@ -75,15 +83,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mmohammad sultani
-\033[1;96mTelegram \033[1;93m: \033[1;92mt.me/sultani1122
-\033[1;96mFacebook  \033[1;93m: \033[1;92mt.me/mohammad_hacker_1122
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/mohammadjan1122/mohd
+\033[1;96mAuthor  \033[1;93m: \033[1;92Arman amp4rator
+\033[1;96mTelegram \033[1;93m: \033[1;92mt.me/ARMAN_HACKER420
+\033[1;96mFacebook  \033[1;93m: \033[1;92mt.me/ARMAN_AMP4RATOR
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Armanamp4rator/arman
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "mohammad"
-CorrectPassword = "sultani"
+CorrectUsername = "Arman"
+CorrectPassword = "Arman"
 
 loop = 'true'
 while (loop == 'true'):
